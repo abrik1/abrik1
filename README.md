@@ -8,7 +8,8 @@ ___
 - OS:- Arch Linux x86_64
 - GUI Based Editor:- Code-OSS
 - TUI Based Editor:- Helix
-- Languages:- Python, Shell, Go
+- Languages:- Python, Shell, Go, C++(Arduino)
+- Projects:- VirbOS(WIP), NemesisOS(WIP), Harvester(Arduino)
 
 > ### Preview:-
 ![master](2023-05-26-202903_1366x768_scrot.png)
