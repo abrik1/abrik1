@@ -5,10 +5,10 @@ ___
 
 <h1 align=center>Some Info About My Computer</h1>
 
-- OS:- EndeavourOS
+- OS:- NixOS
 - Text Editor:- Emacs
 - Languages:- Python, Shell, Go, C++(Arduino)
 - Projects:- VirbOS(WIP), NemesisOS(WIP), Harvester(Arduino)
 
 > ### Preview:-
-![master](2023-07-11-232530_1366x768_scrot.png)
+
