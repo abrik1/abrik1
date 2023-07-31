@@ -5,7 +5,7 @@ ___
 
 <h1 align=center>Some Info About My Computer</h1>
 
-- OS:- NixOS
+- OS:- Gentoo
 - Text Editor:- Emacs
 - Languages:- Python, Shell, Go, C++(Arduino)
 - Projects:- VirbOS(WIP), NemesisOS(WIP), Harvester(Arduino)
