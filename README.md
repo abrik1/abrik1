@@ -1,5 +1,5 @@
 <h1 align=center>Welcome to my Github</h1>
-<p align=center>I am a teenager who is keen at developing Linux distros and learning how Arduino works<br>Currently developing NemesisOS</p>
+<p align=center>I am a teenager who is keen at developing Linux distros and learning how Arduino works<br>Currently developing NemesisOS and stuff...</p>
 
 ___
 
@@ -8,7 +8,7 @@ ___
 - OS:- Gentoo
 - Text Editor:- Emacs
 - Languages:- Python, Shell, Go, C++(Arduino)
-- Projects:- NemesisOS(WIP)
+- Projects:- NemesisOS(WIP), SPEVCS(Proprietary)
 
 > ### Preview:-
 
