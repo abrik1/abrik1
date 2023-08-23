@@ -1,15 +1,7 @@
-<h1 align=center>Welcome to my Github</h1>
-<p align=center>I am a teenager who is keen at developing Linux distros and learning how Arduino works<br>Currently developing NemesisOS and stuff...</p>
+Hiatus for a while!
 
-___
+Projetcs: NemesisOS, SPEVCS(FOSS later maybe..)
 
-<h1 align=center>Some Info About My Computer</h1>
-
-- OS:- Gentoo
-- Text Editor:- Emacs
-- Languages:- Python, Shell, Go, C++(Arduino)
-- Projects:- NemesisOS(WIP), SPEVCS(Proprietary)
-
-> ### Preview:-
+> ### Cool Desktop:-
 
 ![master](gentoo.png)
