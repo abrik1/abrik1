@@ -1,6 +1,6 @@
 Hiatus for a while!
 
-Projetcs: NemesisOS, SPEVCS(FOSS later maybe..)
+Projects: NemesisOS, SPEVCS(FOSS later maybe..)
 
 > ### Cool Desktop:-
 
